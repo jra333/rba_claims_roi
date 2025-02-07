@@ -1,6 +1,6 @@
-# RBA Claims Testing (EDA & Modeling)
+# RBA Claims (EDA & Modeling)
 
-This notebook provides an extensive framework to perform exploratory data analysis (EDA) and modeling on claims data.
+This notebook provides an extensive framework to perform exploratory data analysis (EDA) and modeling on claims data. The analysis and modeling aims to find the statistical significance of various marketing metrics to insuarance claims (sales). Given the nuanced sector in which this analysis was performed on the results varied and warrant further exploration -- with search based spending showing more "correlation."  The amount of unknowns outweighed the amount of data available to attribute a large portion of market spends to actual claims.
 
 ## Overview
 
